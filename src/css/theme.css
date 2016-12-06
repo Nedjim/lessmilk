@@ -14,7 +14,8 @@ body {
       padding: 1rem; }
 
 canvas {
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-bottom: 2rem; }
 
 #navigation {
   width: 60%;
