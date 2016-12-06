@@ -53,12 +53,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-body {
-    background: #01579B;
-}
-
-.title {
-    font-size: 2.5rem;
-    color: white;
-}
